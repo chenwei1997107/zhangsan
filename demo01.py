@@ -52,7 +52,12 @@
 # print("你真棒")
 
 
-a = input("请输入:")
-b = input("请输入:")
-print("两段的长度是多少",len(a+b))
-print(len(a+b))
+# a = input("请输入:")
+# b = input("请输入:")
+# print("两段的长度是多少",len(a+b))
+# print(len(a+b))
+
+
+a = int("252525")
+b = int("24225")
+print(a,b)
