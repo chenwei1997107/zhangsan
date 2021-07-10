@@ -58,6 +58,59 @@
 # print(len(a+b))
 
 
-a = int("252525")
-b = int("24225")
-print(a,b)
+# a = int("252525")
+# b = int("24225")
+# print(a,b)
+
+
+
+# a = (1,2,3,4,5,6,7,8,9,"哈哈","哈哈","哈哈","哈哈","嘻嘻",True)
+# # print(a.index("嘻嘻"))
+# # print(a.count("哈哈"))
+# b = (a,"哈哈","嘻嘻")
+# # print(b[0][3])
+# print(a[:5])
+
+# a = [1,2,3,4,5,"哈哈","嘻嘻",True]
+# a.append('我是你爹')
+
+# # a.insert(0,'haode')
+# # print(a)
+# # b = a.pop(0)
+# # c = a.pop(1)
+# # print(b+c)
+# # print(b)
+# # print(a)
+# # print(a)
+# # b = ['你好','你不好']
+# # print(a+b)
+# print(a)
+# a.remove(5)
+# print(a)
+
+
+# a = {
+#     'name':'chenwei',
+#     'age':'23',
+#     'xueli':'benke'
+#     }
+# # print(a['name'])
+# # a['shenggao'] = '170cm'
+# # a['name']= 'haiyan'
+# # print(a)
+
+# # b = a.get('shenggao')
+# # print(a)
+# # print(b)
+# # a.update(name=123)
+# a.update(phone=152)
+# # del a['name']
+# print(a)
+
+
+# a = {}
+# a.update(name=str(input('请输入name:')))
+# a.update(age=int(input('请输入age:')))
+# a.update(sex=int(input('请输入sex:')))
+
+# print(a)
